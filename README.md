@@ -2,7 +2,9 @@
 LCA: Less Confident Augmentations
 
 The evaluation protocol is based on [1], [2].
+
 [1]	Ullah, I., Carrión-Ojeda, D., Escalera, S., Guyon, I. M., Huisman, M., Mohr, F., ... & Vu, P. A. (2022). Meta-Album: Multi-domain Meta-Dataset for Few-Shot Image Classification. In Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track.
+
 [2]	Carrión-Ojeda, D., Chen, H., El Baz, A., Escalera, S., Guan, C., Guyon, I., ... & Zhu, W. (2022, December). NeurIPS’22 Cross-Domain MetaDL competition: Design and baseline results. In ECMLPKDD Workshop on Meta-Knowledge Transfer (pp. 24-37). PMLR.
 
 
