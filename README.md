@@ -1,4 +1,4 @@
-# Adaptive Augmentation Framework for Domain Independent Few Shot Learning
+# AdaptAugment
 
 
 The **evaluation protocol** is based on [1], [2].
